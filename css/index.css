@@ -1,0 +1,23 @@
+#AbilityOnline{
+    width: 300px;
+}
+#Brainstorm{
+    width: 300px;
+}
+#GetInvolved1{
+    width: 300px;
+}
+#Homepage1{
+    width:300px;
+}
+#Donate1{
+    width:300px;
+}
+.container img{
+    width:1000px;
+}
+.container {
+    display: grid;
+    grid-row-start: 10;
+    grid-row-end: 10;
+}
